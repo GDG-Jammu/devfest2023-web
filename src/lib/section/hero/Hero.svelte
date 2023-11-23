@@ -70,17 +70,17 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>December 16th, 2023</p>
-      <i class="fa fa-location-arrow" />
-      <p>Venue to be announced soon</p>
+      <p>Date will be announced soon</p>
+      <!--<i class="fa fa-location-arrow" />
+      <p>Venue to be announced soon</p>-->
       <!--<a href='https://maps.app.goo.gl/KnoovD6vyYEHWnDr8'
         ></a>-->
     </div>
   </div>
 
-  <div class="items-center">
+  <!--<div class="items-center">
     <Countdown />
-  </div>
+  </div>-->
 </section>
 
 <style>
