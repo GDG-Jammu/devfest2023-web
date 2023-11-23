@@ -6,7 +6,7 @@
   import { openModal } from 'svelte-modals';
 
   function handleClick() {
-    window.open('https://konfhub.com/devfest-2023-chennai')
+    window.open('https://gdg.community.dev/gdg-jammu/')
   }
 </script>
 
@@ -32,7 +32,7 @@
     <h1
       class="text-start text-4xl font-bold tracking-tight text-black md:text-center md:text-6xl lg:text-center lg:text-7xl"
     >
-      Chennai’s most awaited tech conference
+      Jammu’s most awaited tech conference
     </h1>
     <p class="max-w-2xl text-start text-gray-700 md:text-center lg:text-center">
       Come learn, network and celebrate with the Google Developer Ecosystem
@@ -46,23 +46,23 @@
   >
     <Button
       id="button-hero-get-tickets"
-      title="Book tickets"
+      title="Registration open soon"
       onClick={() => handleClick()}
     >
       <Icon width="20" height="20" name="ticket" />
     </Button>
 
-    <Button
+    <!--<Button
       id="button-hero-add-to-calendar"
       isSecondaryButton={true}
-      title="Add to calendar"
+      title="Devfest 2022"
       onClick={() =>
         window.open(
           'https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDA1OTY0MWFhNXNmaGZuYW5udnJ2bTRyZTJfMjAyMzEyMDFUMDIzMDAwWiA4MmNmMWQxMWM3MzI1ZjlhZTk1Y2ExNmFkOWEyNmE5MThiMTUyNTk5ODQwMzIyNWM5MGEwM2JkYTQ3NzdjZTcyQGc&tmsrc=82cf1d11c7325f9ae95ca16ad9a26a918b1525998403225c90a03bda4777ce72%40group.calendar.google.com&scp=ALL'
         )}
     >
       <i class="fa fa-calendar" />
-    </Button>
+    </Button>-->
   </div>
 
   <div
@@ -70,10 +70,11 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>December 1 & 2, 2023</p>
+      <p>December 16th, 2023</p>
       <i class="fa fa-location-arrow" />
-      <a href='https://maps.app.goo.gl/KnoovD6vyYEHWnDr8'
-        ><p>IIT-M Research Park, Chennai</p></a>
+      <p>Venue to be announced soon</p>
+      <!--<a href='https://maps.app.goo.gl/KnoovD6vyYEHWnDr8'
+        ></a>-->
     </div>
   </div>
 

@@ -1,32 +1,27 @@
 <script lang="ts">
   const footerMenus = [
     {
-      href: 'https://twitter.com/GDGChennai',
+      href: 'https://twitter.com/GDGjammu',
       icon: 'fa fa-x-twitter',
       class: 'btn twitter'
     },
     {
-      href: 'https://discord.com/invite/UQmbKjjgeb',
-      icon: 'fa fa-discord',
-      class: 'btn discord'
-    },
-    {
-      href: 'https://instagram.com/gdgchennai',
+      href: 'https://instagram.com/gdgjammu',
       icon: 'fa fa-instagram',
       class: 'btn instagram'
     },
     {
-      href: 'https://www.youtube.com/c/GDGCHENNAICOMMUNITY',
+      href: 'https://www.youtube.com/@gdgjammu',
       icon: 'fa fa-youtube',
       class: 'btn youtube'
     },
     {
-      href: 'https://www.linkedin.com/company/gdgchennai',
+      href: 'https://www.linkedin.com/company/gdgjammu',
       icon: 'fa fa-linkedin',
       class: 'btn linkedin'
     },
     {
-      href: 'https://gdg.community.dev/gdg-chennai',
+      href: 'https://gdg.community.dev/gdg-jammu',
       icon: 'fa fa-users',
       class: 'btn users'
     }
@@ -52,7 +47,7 @@
     </nav>
 
     <p class="mt-8 text-center text-base text-gray-400">
-      &copy; 2023 GDG Chennai. All rights reserved.
+      &copy; 2023 GDG Jammu. All rights reserved.
     </p>
   </div>
 </footer>

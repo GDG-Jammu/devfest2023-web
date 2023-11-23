@@ -103,7 +103,7 @@
                   Entry is allowed only with a valid ticket.
                 </p>
               </div>
-              <div class="mt-4 text-left text-sm">
+              <!--<div class="mt-4 text-left text-sm">
                 <p class="font-light text-gray-900">
                   <b class="font-semibold">Event info:</b>
                 </p>
@@ -112,7 +112,7 @@
                     December 1 & 2, 2023 @ IIT-M Research Park,Chennai
                   </li>
                 </ul>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>

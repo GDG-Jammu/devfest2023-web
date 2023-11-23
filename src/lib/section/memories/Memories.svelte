@@ -3,9 +3,8 @@
     {
       imageUrl: '1.webp'
     },
-
     {
-      imageUrl: '2.webp'
+      imageUrl: '5.webp'
     },
 
     {
@@ -13,13 +12,15 @@
     },
 
     {
-      imageUrl: '4.jpeg'
-    },
-    {
-      imageUrl: '5.webp'
-    },
-    {
       imageUrl: '6.webp'
+    },
+
+    {
+      imageUrl: '29.webp'
+    }
+    ,
+    {
+      imageUrl: '27.webp'
     },
     {
       imageUrl: '7.webp'
@@ -29,7 +30,58 @@
     },
     {
       imageUrl: '9.webp'
+    },
+    {
+      imageUrl: '10.webp'
+    },
+    {
+      imageUrl: '25.webp'
+    },
+    {
+      imageUrl: '12.webp'
+    },
+    
+    {
+      imageUrl: '14.webp'
+    },
+    {
+      imageUrl: '15.webp'
+    },
+    {
+      imageUrl: '16.webp'
+    },
+    
+    {
+      imageUrl: '18.webp'
+    },
+    {
+      imageUrl: '19.webp'
+    },
+    {
+      imageUrl: '20.webp'
+    },
+    {
+      imageUrl: '21.webp'
+    },
+    {
+      imageUrl: '22.webp'
+    },
+   {
+      imageUrl: '24.webp'
+    },
+   
+    {
+      imageUrl: '26.webp'
+    },
+    {
+      imageUrl: '28.webp'
     }
+    ,
+  
+    {
+      imageUrl: '4.webp'
+    }
+    
   ];
 </script>
 
