@@ -72,7 +72,7 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>21th of December, 2023</p>
+      <p>21st of December, 2023</p>
      <i class="fa fa-location-arrow" />
     
       <a href='https://maps.app.goo.gl/HPHVASycnxD2MZZR9'
