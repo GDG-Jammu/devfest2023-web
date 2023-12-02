@@ -48,7 +48,7 @@
   >
     <Button
       id="button-hero-get-tickets"
-      title="Registration"
+      title="Book ticket"
       onClick={() => handleClick()}
     >
       <Icon width="20" height="20" name="ticket" />
