@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>DevFest Chennai - Sponsorship</title>
+  <title>DevFest Jammu - Sponsorship</title>
   <meta name="description" content="DevFest Chennai Sponsorship" />
 </svelte:head>
 

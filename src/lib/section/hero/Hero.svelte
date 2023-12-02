@@ -6,7 +6,7 @@
   import { openModal } from 'svelte-modals';
 
   function handleClick() {
-    window.open('https://gdg.community.dev/gdg-jammu/')
+    window.open('https://forms.gle/ymbaUM1Ch2Qs31d96')
   }
 </script>
 
@@ -34,6 +34,8 @@
     >
       Jammu’s most awaited tech conference
     </h1>
+
+    
     <p class="max-w-2xl text-start text-gray-700 md:text-center lg:text-center">
       Come learn, network and celebrate with the Google Developer Ecosystem
       while also learning to hack on Android, Chrome, and Web.
@@ -46,23 +48,23 @@
   >
     <Button
       id="button-hero-get-tickets"
-      title="Registration open soon"
+      title="Registration"
       onClick={() => handleClick()}
     >
       <Icon width="20" height="20" name="ticket" />
     </Button>
 
-    <!--<Button
+    <Button
       id="button-hero-add-to-calendar"
       isSecondaryButton={true}
-      title="Devfest 2022"
+      title="Add to calander"
       onClick={() =>
         window.open(
-          'https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDA1OTY0MWFhNXNmaGZuYW5udnJ2bTRyZTJfMjAyMzEyMDFUMDIzMDAwWiA4MmNmMWQxMWM3MzI1ZjlhZTk1Y2ExNmFkOWEyNmE5MThiMTUyNTk5ODQwMzIyNWM5MGEwM2JkYTQ3NzdjZTcyQGc&tmsrc=82cf1d11c7325f9ae95ca16ad9a26a918b1525998403225c90a03bda4777ce72%40group.calendar.google.com&scp=ALL'
+          'https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXJicGR1MDg2Mm1oN2ZxdDFpbnNrdG1ybmUgOTlhNDgxMDRiMzZkMTMzMGNkMGI1MzdiZWVjZjM2Mjg4YmViYzJhMmJjMmI3OWVhOGFlNjkxNWUwNjk2ZjlkN0Bn&tmsrc=99a48104b36d1330cd0b537beecf36288bebc2a2bc2b79ea8ae6915e0696f9d7%40group.calendar.google.com'
         )}
     >
       <i class="fa fa-calendar" />
-    </Button>-->
+    </Button>
   </div>
 
   <div
@@ -70,17 +72,18 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>Date will be announced soon</p>
-      <!--<i class="fa fa-location-arrow" />
-      <p>Venue to be announced soon</p>-->
-      <!--<a href='https://maps.app.goo.gl/KnoovD6vyYEHWnDr8'
-        ></a>-->
+      <p>21th of December, 2023</p>
+     <i class="fa fa-location-arrow" />
+    
+      <a href='https://maps.app.goo.gl/HPHVASycnxD2MZZR9'
+        > <p>Model Institute of Engineering and Technology (MIET), Jammu</p>
+      </a>
     </div>
   </div>
 
-  <!--<div class="items-center">
+  <div class="items-center">
     <Countdown />
-  </div>-->
+  </div>
 </section>
 
 <style>
