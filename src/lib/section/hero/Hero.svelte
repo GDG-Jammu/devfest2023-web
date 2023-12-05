@@ -66,7 +66,19 @@
       <i class="fa fa-calendar" />
     </Button>
   </div>
-
+  <p class="text-md  mt-4 text-center text-gray-600">
+    <b>In collaboration with</b>
+  </p>
+ 
+  <div class="bg-white">
+    <div class="mx-auto max-w-7xl py-4 px-4 sm:px-6 lg:px-8">
+      <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
+        <a href="https://www.mietjmu.in/"><img src="/miet.jpg" class="img-border" height={100}
+          width={200}
+          loading="lazy" alt="MIET Jammu" /></a>
+      </div>
+    </div>
+  </div>
   <div
     class="flex w-full flex-col items-center justify-center space-y-3 text-xl sm:flex-row sm:space-y-0 sm:space-x-6"
   >
@@ -79,11 +91,13 @@
         > <p>Model Institute of Engineering and Technology (MIET), Jammu</p>
       </a>
     </div>
+    
   </div>
-
+ 
   <div class="items-center">
     <Countdown />
   </div>
+
 </section>
 
 <style>

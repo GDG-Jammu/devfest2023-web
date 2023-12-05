@@ -43,13 +43,16 @@
   <div class="space-y-16 md:space-y-44 m-1">
     <Blur />
     <Hero />
+    
     <!--<Cfp />-->
     <Why />
     <Tickets />
-    <Faq/>
-    <!-- <Sponsors />
     <Partners />
-    <Corporate />-->
+    <!--<Sponsors />-->
+    <Faq/>
+     
+  
+   <!-- <Corporate />-->
    <Memories />
   </div>
 </div>

@@ -3,7 +3,7 @@
 
   // open the community partner forms in new page
   const openCommunityPartners=() =>{
-    window.open('https://docs.google.com/forms/d/e/1FAIpQLSe2J4gDAJ8syrf1JKxGrLC_tsULc4ur6jDN4Gjo-GIWCZrmCA/viewform','_blank')
+    window.open('https://forms.gle/eWF6uiJV1naJwJR77','_blank')
   }
 </script>
 <section
@@ -28,15 +28,15 @@
       />
     </div>
   </div>
-  <div class="bg-white">
+  <!--<div class="bg-white">
     <div class="w-full max-w-7xl py-12 px-4 sm:px-6 lg:px-8">
       <div class="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-4">
         <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <a href="https://gdg.community.dev/gdg-cloud-chennai/">
+          <a href="https://gdsc.community.dev/model-institute-of-engineering-and-technology-jammu//">
             <img
-              src="/gdg-cloud-chennai.svg"
+              src="/gsdcmiet.png"
               class="img-border"
-              alt="GDG Cloud Chennai"
+              alt="GDSC MIET"
               height={50}
               width={200}
               loading="lazy"
@@ -97,7 +97,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 </section>
 
 <style>
