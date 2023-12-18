@@ -4,6 +4,7 @@
   import Memories from '$lib/section/memories/Memories.svelte';
   import Sponsors from '$lib/section/sponsors/Sponsors.svelte';
   import Partners from '$lib/section/partners/Partners.svelte';
+  import Speaker from '$lib/section/speaker/speaker.svelte';
   import Tickets from '$lib/section/tickets/Tickets.svelte';
   import Why from '$lib/section/why/Why.svelte';
   import Cfp from '$lib/section/CFP/cfp.svelte'
@@ -46,9 +47,10 @@
     
     <!--<Cfp />-->
     <Why />
+    <Speaker />
     <Tickets />
-    <Partners />
-    <!--<Sponsors />-->
+    <!--<Partners />-->
+    <Sponsors />
     <Faq/>
      
   

@@ -3,7 +3,7 @@
   import Icon from '$lib/icon/Icon.svelte';
 
   function handleClick() {
-    location.href='/agenda'
+    location.href='https://forms.gle/ymbaUM1Ch2Qs31d96'
   }
 
   function download() {
@@ -90,13 +90,27 @@
               class="bg-gray-50 py-8 px-6 text-center lg:flex lg:flex-shrink-0 lg:flex-col lg:justify-center lg:p-12"
             >
               <p class="text-4xl font-medium text-gray-900">
-                Know your Speakers & Schedule
+                Reserve your spot now!
               </p>
-              <div class="mt-6 mx-10">
-                <p class="mt-6 text-base text-gray-500">
-                  Will be Anounced Soon
-                </p>
-              </div>
+              <div
+              class="mt-4 flex items-center justify-center text-5xl font-bold tracking-tight text-gray-900"
+            >
+              <span
+                class="ml-3 text-xl font-medium tracking-normal text-gray-500"
+                >IT'S
+              </span>
+              <span> FREE</span>
+            </div>
+            <div class="mt-6">
+              <Button
+                id="button-get-ticket"
+                title="Book tickets"
+                isSecondaryButton={false}
+                onClick={() => handleClick()}
+              >
+                <Icon width="20" height="20" name="ticket" />
+              </Button>
+            </div>
               <div class="mt-4 text-left text-xs">
                 <p class="font-light text-gray-900">
                   <b class="font-semibold">Note:</b> Prior registration is required to attend the event.<br /> 
