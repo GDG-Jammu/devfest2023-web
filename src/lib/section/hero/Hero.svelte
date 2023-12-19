@@ -73,9 +73,9 @@
   <div class="bg-white">
     <div class="mx-auto max-w-7xl py-4 px-4 sm:px-6 lg:px-8">
       <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-        <a href="https://www.mietjmu.in/"><img src="/miet.jpg" class="img-border" height={100}
+        <a href="https://gcetjammu.org.in/"><img src="/gcet.jpg" class="img-border" height={100}
           width={200}
-          loading="lazy" alt="MIET Jammu" /></a>
+          loading="lazy" alt="GCET Jammu" /></a>
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@
      <i class="fa fa-location-arrow" />
     
       <a href='https://maps.app.goo.gl/HPHVASycnxD2MZZR9'
-        > <p>Model Institute of Engineering and Technology (MIET), Jammu</p>
+        > <p>Government College of Engineering & Technology, Jammu</p>
       </a>
     </div>
     
