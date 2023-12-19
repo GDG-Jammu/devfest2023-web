@@ -87,7 +87,7 @@
       <p>21st of December, 2023</p>
      <i class="fa fa-location-arrow" />
     
-      <a href='https://maps.app.goo.gl/HPHVASycnxD2MZZR9'
+      <a href='https://maps.app.goo.gl/1rsZqVPc4zuEfLyH6'
         > <p>Government College of Engineering & Technology, Jammu</p>
       </a>
     </div>
