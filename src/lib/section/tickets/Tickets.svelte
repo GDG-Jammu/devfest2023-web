@@ -3,7 +3,7 @@
   import Icon from '$lib/icon/Icon.svelte';
 
   function handleClick() {
-    location.href='https://forms.gle/ymbaUM1Ch2Qs31d96'
+    location.href='https://forms.gle/NXYzi9zLct8fA1KM6'
   }
 
   function download() {
@@ -56,7 +56,7 @@
               <h3
                 class="font-bold text-gray-900 sm:text-2xl sm:tracking-tight md:text-4xl"
               >
-                DevFest 2023
+                DevFest 2024
               </h3>
               <p class="mt-6 text-base text-gray-500">
                 Come. Learn, Network and Celebrate with Google Developer Groups

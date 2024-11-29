@@ -6,7 +6,7 @@
   import { openModal } from 'svelte-modals';
 
   function handleClick() {
-    window.open('https://forms.gle/ymbaUM1Ch2Qs31d96')
+    window.open('https://forms.gle/NXYzi9zLct8fA1KM6')
   }
 </script>
 
@@ -20,12 +20,12 @@
   >
     <div class="bg-text-container max-w-7xl">
       <div class="animate-text">
-        <span>DevFest23</span>
-        <span>DevFest23</span>
+        <span>DevFest24</span>
+        <span>DevFest24</span>
       </div>
       <div class="animate-text left">
-        <span>DevFest23</span>
-        <span>DevFest23</span>
+        <span>DevFest24</span>
+        <span>DevFest24</span>
       </div>
     </div>
 
@@ -60,22 +60,22 @@
       title="Add to calander"
       onClick={() =>
         window.open(
-          'https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXJicGR1MDg2Mm1oN2ZxdDFpbnNrdG1ybmUgOTlhNDgxMDRiMzZkMTMzMGNkMGI1MzdiZWVjZjM2Mjg4YmViYzJhMmJjMmI3OWVhOGFlNjkxNWUwNjk2ZjlkN0Bn&tmsrc=99a48104b36d1330cd0b537beecf36288bebc2a2bc2b79ea8ae6915e0696f9d7%40group.calendar.google.com'
+          'https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGtnYjVodDdpNmR2YXV0anNicXYzYzBncWYgZ2RnamFtbXVAbQ&tmsrc=gdgjammu%40gmail.com'
         )}
     >
       <i class="fa fa-calendar" />
     </Button>
   </div>
   <p class="text-md  mt-4 text-center text-gray-600">
-    <b>In collaboration with</b>
+    <b>Powered by</b>
   </p>
  
-  <div class="bg-white">
+  <div class="bg">
     <div class="mx-auto max-w-7xl py-4 px-4 sm:px-6 lg:px-8">
       <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-        <a href="https://gcetjammu.org.in/"><img src="/gcet.jpg" class="img-border" height={100}
+        <a href="https://developers.google.com/"><img src="/googlefordeveloper-modified.png" class="img-border" alt="Google Developers" height={100}
           width={200}
-          loading="lazy" alt="GCET Jammu" /></a>
+          loading="lazy" /></a>
       </div>
     </div>
   </div>
@@ -84,11 +84,11 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>21st of December, 2023</p>
+      <p>21st of December, 2024</p>
      <i class="fa fa-location-arrow" />
     
-      <a href='https://maps.app.goo.gl/1rsZqVPc4zuEfLyH6'
-        > <p>Government College of Engineering & Technology, Jammu</p>
+      <a href='https://maps.app.goo.gl/sCfpDG5EuU4jEGBr9'
+        > <p>Lemon Tree Hotel, Jammu</p>
       </a>
     </div>
     

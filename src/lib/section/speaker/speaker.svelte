@@ -87,7 +87,7 @@
         <h2
           class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl lg:text-5xl"
         >
-          Our Speakers
+          Previous Speakers
         </h2>
         <p class="text-md mt-4 flex w-full max-w-3xl text-center text-gray-600">
           We have some of the best speakers in the industry who will be sharing

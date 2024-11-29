@@ -34,7 +34,7 @@
       id: 4,
       question: 'What if I have a question?',
       answer:
-        'You can email us at devfest@gdgjammu.com or reach out to us on our social media channels.',
+        'You can email us at gdgjammu@gmail.com or reach out to us on our social media channels.',
       active: false
     },
     {

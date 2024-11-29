@@ -48,7 +48,7 @@
     updateClock(); 
     var timeinterval = setInterval(updateClock, 1000);
   }
-  var deadline = 'December 21 2023 9:59:59';
+  var deadline = 'December 21 2024 10:29:59';
   
   initializeClock('clockdiv', deadline);
   });

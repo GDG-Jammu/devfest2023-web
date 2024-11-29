@@ -92,7 +92,7 @@
   <h2
     class="flex text-center text-3xl font-bold tracking-tight text-black sm:text-4xl lg:text-5xl"
   >
-    DevFest 2022 was so much fun.
+    DevFest was so much fun.
   </h2>
 
   <div class="bg-white">
