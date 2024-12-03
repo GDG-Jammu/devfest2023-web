@@ -3,7 +3,7 @@
 
   // open the community partner forms in new page
   const openCommunityPartners=() =>{
-    window.open('https://forms.gle/eWF6uiJV1naJwJR77','_blank')
+    window.open('https://forms.gle/Frgd2ngybTnmyQjb9','_blank')
   }
 </script>
 <section

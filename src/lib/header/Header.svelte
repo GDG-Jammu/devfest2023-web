@@ -80,11 +80,11 @@
     <div class="flex w-full items-center justify-around">
       <div class="flex items-center">
         <a href="/">
-          <span class="sr-only">GDG Jammu - Devfest 2023</span>
+          <span class="sr-only">GDG Jammu - Devfest 2024</span>
           <img
-            class="h-24 w-auto"
+            class="h-24"
             src="/devfest-jammu.svg"
-            alt="GDG Jammu - Devfest 2023"
+            alt="GDG Jammu - Devfest 2024"
             height={100}
             width={200}
             fetchpriority="high"

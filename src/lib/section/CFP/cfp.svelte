@@ -3,7 +3,7 @@
   
     // open the sponsor form in a new tab
     const opneCfp = () => {
-      window.open('https://docs.google.com/forms/d/e/1FAIpQLSfqUAAZew6k9TTkETItNM1HqqwhPc_q-J9p-pv_jlftaQpIYA/viewform', '_blank');
+      window.open('https://forms.gle/CeVHpMohbnQNEs1A6', '_blank');
     };
   </script>
 <section id="CFP" class="flex w-full flex-col items-center space-y-6 px-24">

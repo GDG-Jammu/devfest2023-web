@@ -14,23 +14,23 @@
 </script>
 
 <svelte:head>
-  <title>GDG Jammu - Devfest 2023</title>
-  <meta name="description" content="GDG Jammu - Devfest 2023" />
+  <title>GDG Jammu - Devfest 2024</title>
+  <meta name="description" content="GDG Jammu - Devfest 2024" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@gdgjammu" />
   <meta name="twitter:creator" content="@gdgjammu" />
-  <meta name="twitter:title" content="GDG Jammu - Devfest 2023" />
-  <meta name="twitter:description" content="GDG Jammju - Devfest 2023" />
+  <meta name="twitter:title" content="GDG Jammu - Devfest 2024" />
+  <meta name="twitter:description" content="GDG Jammju - Devfest 2024" />
   <meta
     name="twitter:image"
     content="https://devfest.gdgjammu.com/gdgjammu-banner.png"
   />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="GDG Jammu - Devfest 2023" />
-  <meta property="og:description" content="GDG Jammu - Devfest 2023" />
-  <meta property="og:site_name" content="GDG Jammu - Devfest 2023" />
+  <meta property="og:title" content="GDG Jammu - Devfest 2024" />
+  <meta property="og:description" content="GDG Jammu - Devfest 2024" />
+  <meta property="og:site_name" content="GDG Jammu - Devfest 2024" />
   <meta property="og:url" content="https://devfest.gdgjammu.com/" />
   <meta
     property="og:image"
@@ -45,16 +45,24 @@
     <Blur />
     <Hero />
     
-    <!--<Cfp />-->
     <Why />
+    <Cfp />
     <Speaker />
     <Tickets />
-    <!--<Partners />-->
     <Sponsors />
+    <Partners />
     <Faq/>
+    <Memories />
+    
+      <!--  
+        <Speaker />
+      
+   
+    
+    
+   
      
-  
-   <!-- <Corporate />-->
-   <Memories />
+<Corporate />
+   -->
   </div>
 </div>
